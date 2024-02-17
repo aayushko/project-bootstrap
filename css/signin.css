@@ -1,0 +1,24 @@
+*{
+    background: #000;
+    color: #ffff;
+}
+.main{
+    display: flex;
+    padding: 200px;
+    align-items: center;
+    justify-content: center;
+}
+ 
+   
+   .logo{
+    padding: 22px 0 0 25px;
+       display: flex;
+      
+   }
+   
+   .logo a{
+       text-decoration: none;
+       color: #FFF7F1;
+       font-size: 30px;
+   
+   }

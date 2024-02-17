@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+.topbar{
+ padding: 22px 0 0 25px;
+    flex-direction: row;
+    text-align: center;
+    gap: 85vw;
+}
+
+.signin{
+    display: inline-flexbox;
+    padding-top: 15px;
+    width: 100px;
+    height: 50px;
+}
+.logo{
+    display: inline-block;
+}
+.signin a{
+text-decoration: none;
+    font-size: 20px;
+    color: #FFF7F1;
+}
+.logo a{
+    text-decoration: none;
+    color: #FFF7F1;
+    font-size: 30px;
+
+}
+section{
+    display: block;
+    margin: auto;
+    gap: 30vw 50vh;
+}
+.dx img
+{
+  
+    padding: 0px 80px 80px 80px;
+}
+.dx {
+    padding-top: 80px;
+    display: flex;
+    width: 100vw;
+}
+
+body{
+  
+    background: #D04848;
+}
+
